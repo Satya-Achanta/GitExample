@@ -11,8 +11,8 @@ public class MultiplyNumbers {
 
 		int a = 12;
 		int b = 13;
-		
-		System.out.println("Sum of numbers is :"+(a*b));
+		int c = 20;
+		System.out.println("Sum of numbers is :"+(a*b*c));
 		
 	}
 
